@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - 🌱 I’m always learning and exploring new technologies and methodologies in the data science and AI landscape.
 - 👯 I’m looking to collaborate on open-source projects and research initiatives.
 - 💬 Ask me about anything related to data science, machine learning, and Python programming.
-- 📫 How to reach me: [mvsreejith2010@gmail.com](mailto:mvsreejith0@gmail.com)
+- 📫 How to reach me: [mvsreejith0@gmail.com](mailto:mvsreejith0@gmail.com)
 
 ## Skills
 
