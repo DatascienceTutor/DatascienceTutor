@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 ## Projects
 
 Here are a few highlights of my work:
-- [**BillDine**](https://github.com/DatascienceTutor/BillDine): A comprehensive, lightweight, and fast restaurant management system built with Python, FastAPI, HTMX, and Bootstrap.
+- [**BillDine**]([https://github.com/DatascienceTutor/BillDine](https://github.com/DatascienceTutor/Restaurant-Application)): A comprehensive, lightweight, and fast restaurant management system built with Python, FastAPI, HTMX, and Bootstrap.
 - [**HireFlow**](https://github.com/DatascienceTutor/hireflow): An AI assistant interview platform for hiring managers and candidates.
 - [**PDF Chatbot**](https://github.com/DatascienceTutor/pdfchatbot): A project focused on building RAG using Langchain and OpenAI.
 - [**Local Chatbot using Ollama**](https://github.com/DatascienceTutor/OllamaChatBot): A Chatbot which completely running in local enviornment using Llamma 3 models.
